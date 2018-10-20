@@ -1,9 +1,9 @@
 
 ---
-layout: default
+Women in Data Science : Mumbai Chapter
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+For the first time in Mumbai, on March 10th, 2018, Women in Data Science aka WiDS Stanford Conference was organized! 
 
 [Link to another page](./another-page.html).
 
