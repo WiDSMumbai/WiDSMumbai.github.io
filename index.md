@@ -1,6 +1,6 @@
 
 ---
-Women in Data Science : Mumbai Chapter
+*Women in Data Science : Mumbai Chapter*
 ---
 
 For the first time in Mumbai, on March 10th, 2018, Women in Data Science aka WiDS Stanford Conference was organized! 
@@ -12,31 +12,14 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Live Talks
+There were 9 phenomenal talks on Data science by women who have been working in this field for a long time.  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Webinars of the Conference in Stanford
 
-## Webinars of the Conference in Stanford
-
-> This is a blockquote following a header.
->
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Networking Lunch and High Tea
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Networking Lunch and High Tea
+> ADD pics
 
 #### Header 4
 
